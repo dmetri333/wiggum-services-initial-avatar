@@ -1,0 +1,1 @@
+# wiggum-services-initial-avatar
